@@ -1,0 +1,20 @@
+body{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #333;
+    text-align: center;
+    background-color: gray;
+}
+.question{
+    font-weight: 600;
+}
+.answers {
+    margin-bottom: 20px;
+}
+.jumbotron {
+    background-color: aliceblue;
+    height: 500px;
+    width: 70%;
+    margin-left: 190px;
+    margin-top: 80px;
+}
